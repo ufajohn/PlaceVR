@@ -60,11 +60,6 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
-		},
-		{
-			"Name": "TargetSelectionPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/eca3383363614e41a3bfe349cd07c033"
 		}
 	]
 }
